@@ -1,4 +1,6 @@
 # Brainfuck-Esoteric-Language
 Learning "Brainfuck" Esoteric Language 4fun
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-brainfuck, também conhecido como brainf*ck ou BF, é uma linguagem de programação esotérica notada pelo seu extremo minimalismo, criada por Urban Müller, em 1993.
+# PT-BR
+Brainfuck é uma linguagem de programação esotérica criada por Urban Müller, no ano de 1993.
+Linguagens de programação esotéricas são linguagens de programação projetadas para testar os limites de uma linguagem de programação em computadores. Pode ser usado para alguma teoria, brincadeira, ou uma demonstração de como uma linguagem de programação não deve ser.
